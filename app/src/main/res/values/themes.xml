@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.ArtSpace" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
